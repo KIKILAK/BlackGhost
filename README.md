@@ -15,7 +15,7 @@ https://www.python.org/downloads/ https://code.visualstudio.com/
 
 Now, setup both apps and download this repo in Desktop, then open visual studio and move BlackGhost into the app, install python extension on visual studio and run the setup.py script to install necesary requirements, you can do it with the play button that is Up to the right, Finally, you must get the API Key of the option to collect information from phone numbers here: https://opencagedata.com/api
 ![image](https://github.com/user-attachments/assets/538c1e67-a4dc-4ae4-8371-69fabae6ce54)
-You need to sign up, but it not takes a lot.
+You need to sign up, it not takes a lot.
 
 When you sign up you should be redirected to this site: https://opencagedata.com/dashboard, 
 ![image](https://github.com/user-attachments/assets/189a331d-3aae-47b9-8df4-6947e8c74132)
