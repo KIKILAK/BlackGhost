@@ -1,0 +1,6 @@
+phonenumbers
+opencage
+folium
+whois
+discordwebhook
+public-ip
