@@ -12,3 +12,5 @@ Now let's see how to download this script from 3 operating systems
 first, download Python and Visual Studio Code, you can do it here 👇
 
 https://www.python.org/downloads/ https://code.visualstudio.com/
+
+Now, setup both apps and download this repo in Desktop, then open visual studio and move BlackGhost into the app, 
