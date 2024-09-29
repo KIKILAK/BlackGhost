@@ -8,7 +8,7 @@ Blackghost is a script made in python with the purpose of facilitating, teaching
 
 Now let's see how to download this script from 3 operating systems
 
-## Windows Instalation
+## Windows Installation
 first, download Python and Visual Studio Code, you can do it here 👇
 
 https://www.python.org/downloads/ https://code.visualstudio.com/
@@ -23,3 +23,5 @@ When you sign up you should be redirected to this site: https://opencagedata.com
 Go to the Geogcoding API button and there will be your key, copy it and go to visual studio to edit the BlackGhost.py file and go to line 165, there you must put your key and it should look like this: ![image](https://github.com/user-attachments/assets/65c49cde-4fc5-451c-82fe-1fcd18d95710)
 Save the edited script with ctrl + s and is ready to run.
 run it using visual studio terminal, you can do it with the play button that is Up to the right
+
+## Termux Installation
