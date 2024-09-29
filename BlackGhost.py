@@ -162,7 +162,7 @@ if selection == '1':
 
     from opencage.geocoder import OpenCageGeocode
 
-    key = ''
+    key = 'enter_your_key_here'
     geocoder = OpenCageGeocode(key)
     query = str(location)
     results = geocoder.geocode(query)
