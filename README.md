@@ -24,4 +24,17 @@ Go to the Geogcoding API button and there will be your key, copy it and go to vi
 Save the edited script with ctrl + s and is ready to run.
 run it using visual studio terminal, you can do it with the play button that is Up to the right
 
-## Termux Installation
+## Linux Installation
+
+    git clone https://github.com/KIKILAK/BlackGhost
+    cd BlackGhost
+    python3 setup.py
+
+### set opencage api key for phonenumbers
+here: https://opencagedata.com/api
+sign up and copy the api key that is on https://opencagedata.com/dashboard
+now, use nano and add your api key on line 165, save the file and run it with this command
+
+    python3 BlackGhost.py
+well done!
+    
