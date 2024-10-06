@@ -24,7 +24,7 @@ Go to the Geogcoding API button and there will be your key, copy it and go to vi
 Save the edited script with ctrl + s and is ready to run.
 run it using visual studio terminal, you can do it with the play button that is Up to the right
 
-## Linux Installation
+## Linux Installation (tested on parrot)
 
     git clone https://github.com/KIKILAK/BlackGhost
     cd BlackGhost
