@@ -37,4 +37,10 @@ now, use nano and add your api key on line 165, save the file and run it with th
 
     python3 BlackGhost.py
 well done!
-    
+
+Extra:
+
+    Resolve the error EXTERNALLY-MANAGED
+    sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
+## Termux Installation
