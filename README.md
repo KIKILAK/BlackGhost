@@ -40,7 +40,7 @@ well done!
 
 Extra:
 
-    Resolve the error EXTERNALLY-MANAGED
-    sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+    # Resolve the error EXTERNALLY-MANAGED
+      sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
 
 ## Termux Installation
